@@ -31,7 +31,7 @@ class Burger{
         grass = true;
         souse = true;
         this.meat = meat;
-        System.out.println("This is a double meat burger : bun, 2 meat, cheese, grass and souse");
+        System.out.println("This is a double meat burger : bun, "+meat+" meat, cheese, grass and souse");
     }
 }
 
